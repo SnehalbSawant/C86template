@@ -6,13 +6,6 @@
 }
 #myCanvas
 {
-    border-width:10px;
-    background-color: white; 
-    border-style:ridge;
-	border-color:darkviolet;
+   
 }
 
-button{
-	font-style: italic;
-	font-size: 200px;
-}
